@@ -8,4 +8,4 @@ This portal was created to provided Your Recruiter clients and users a space to 
 
 ## Alternatives 
 
-If you are unable to create an account feel free to send an email detailing the issue or request to Jennifer via [email](mailto:thejenniferhaggerty@gmail.com). She is not able to respond to every email yet rest assured she receives them all and will create the tickets accordingly, check the repo periodically to find your issue and track its progress.
+If you are unable to create an account feel free to send an email detailing the issue or request to Jennifer via [email](mailto:thejenniferhaggerty@gmail.com). She is not able to respond to every email yet rest assured she receives them all and will create the tickets accordingly. Check the repo periodically to find your issue and track its progress.
